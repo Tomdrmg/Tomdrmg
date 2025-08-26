@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Tom  
 
-<!--
-**Tomdrmg/Tomdrmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 French student in **Computer Science**  
+💻 Passionate about **development**  
+🚀 Always looking to improve and learn new skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics  
+
+<div align="center">
+
+![Tomdrmg's Stats](https://github-readme-stats.vercel.app/api?username=Tomdrmg&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![Tomdrmg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tomdrmg&theme=tokyonight&hide_border=false)
+
+![Tomdrmg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomdrmg&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
+---
+
+## 🌱 What I’m currently working on
+- Intensive studies in **mathematics & computer science**
+- Small projects to practice and discover new technologies
+
+---
+
+## 📂 Featured Projects
+- 🚧 (Coming soon) – My first major projects on GitHub!   
+
+---
+
+⭐️ Feel free to check out my repositories and follow my progress!
