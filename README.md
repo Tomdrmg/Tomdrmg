@@ -26,14 +26,4 @@
 
 ---
 
-## 📂 Featured Projects  
-
-<div align="center">
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tomdrmg&repo=PrepaLib&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
-
----
-
 ⭐️ Feel free to check out my repositories and follow my progress!
